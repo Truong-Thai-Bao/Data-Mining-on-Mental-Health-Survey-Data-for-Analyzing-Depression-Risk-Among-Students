@@ -67,9 +67,9 @@ This project analyzes a large-scale survey of university students' mental health
 
 ## 11. Team & Credits
 - **Members:**
-    - Nguyễn Vĩ Khang: Feature engineering, modeling, documentation
+    - [Nguyễn Vĩ Khang](https://github.com/khangvbeauty): Feature engineering, modeling, documentation
     - Trương Thái Bảo: EDA & visualization, modeling, writing
-    - Thạch Nhựt Hào: Data cleaning, modeling, reporting
+    - [Thạch Nhựt Hào](https://github.com/haothach): Data cleaning, modeling, reporting
 - **References:**
     - Main dataset: [Kaggle](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset)
     - Academic papers and background (see report)
