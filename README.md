@@ -16,16 +16,16 @@ This project analyzes a large-scale survey of university students' mental health
 
 ## 3. Data Preprocessing
 - Column name normalization
-- Handling missing/invalid values (e.g., impute financial stress with median)
+- Handling missing/invalid values (e.g., impute financial_stress with median)
 - Grouping rare categories (e.g., City → Others)
 - Encoding categorical variables (Label, One-Hot, Binary)
 - Removing irrelevant/low-variance features
-- Feature engineering (e.g., stress_interaction, sleep_adequate)
+- Feature engineering (e.g., stress_interaction, sleep_adequate)  
 
 ## 4. Exploratory Data Analysis (EDA)
 - Distribution of depression status (58.5% depressed)
-- Analysis by gender, age group, CGPA, financial stress, dietary habits, suicidal thoughts
-- Visualizations: histograms, bar plots, correlation heatmaps
+- Analysis by gender, age group, CGPA, financial_stress, dietary_habits, suicidal_thoughts
+- Visualizations: pie, histograms, ratio plot, bar plots, correlation heatmap
 
 ## 5. Machine Learning Models
 - **Logistic Regression:** Interpretable baseline, best overall accuracy (0.84)
