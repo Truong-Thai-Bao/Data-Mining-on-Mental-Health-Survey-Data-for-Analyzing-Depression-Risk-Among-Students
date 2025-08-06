@@ -1,4 +1,4 @@
-# Student Depression Data Mining Project
+# Data-Mining-on-Mental-Health-Survey-Data-for-Analyzing-Depression-Risk-Among-Students
 
 ## 1. Project Overview
 This project analyzes a large-scale survey of university students' mental health to identify and predict risk factors for depression. Leveraging data mining and machine learning, we aim to provide actionable insights for early screening and intervention in educational settings.
