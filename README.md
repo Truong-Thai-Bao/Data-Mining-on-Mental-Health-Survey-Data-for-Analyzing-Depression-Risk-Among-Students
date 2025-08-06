@@ -7,7 +7,7 @@ This project analyzes a large-scale survey of university students' mental health
 - **Name:** Student Depression Dataset  
 - **Source:** [Kaggle](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset)
 - **Size:** ~27,000 samples, 18 features
-- **Target:** Depression_Status (binary: Yes/No)
+- **Target:** Depression (binary: Yes/No)
 - **Attribute groups:**
   - Demographics: Age, Gender, City
   - Academic: CGPA, Academic Pressure, Study Satisfaction
