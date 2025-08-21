@@ -63,7 +63,7 @@ This project analyzes a large-scale survey of university students' mental health
     python train_models.py
     python run_apriori.py
     ```
-- Jupyter notebooks available for step-by-step analysis
+- Jupyter notebooks or Google Colab available for step-by-step analysis
 
 ## 11. Team & Credits
 - **Members:**
