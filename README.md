@@ -72,4 +72,4 @@ This project analyzes a large-scale survey of university students' mental health
     - [Thạch Nhựt Hào](https://github.com/haothach): Data cleaning, modeling, reporting
 - **References:**
     - Main dataset: [Kaggle](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset)
-    - Academic papers and background (see report)
+    - Academic papers and background ([see report](https://github.com/Truong-Thai-Bao/Data-Mining-on-Mental-Health-Survey-Data-for-Analyzing-Depression-Risk-Among-Students/blob/main/KPDL_TramCam_Final.pdf))
